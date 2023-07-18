@@ -1,4 +1,4 @@
-/* take another array store both the arrays and sort the array ,if the adjacent elements are not equal then increment*/
+/* take another array store both the arrays in that new array and sort the array ,if the adjacent elements are not equal then increment count */
 
 import java.util.*;
 public class UnionOf2arrays {
