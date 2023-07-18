@@ -1,4 +1,6 @@
- import java.util.*;
+/* take another array store both the arrays and sort the array ,if the adjacent elements are not equal then increment*/
+
+import java.util.*;
 public class UnionOf2arrays {
        public static void main(String[] args)
        {
